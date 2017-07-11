@@ -1,0 +1,62 @@
+1.  for(var i = 1 ;i <= 10; i++)
+{1.  for(var i = 1 ;i <= 10; i++)
+{
+      console.log(i)
+ }
+
+
+2. var firstName ='Juan ';
+
+var lastName = 'Hernandez';
+
+console.log( 'Hello there! ' + firstName + lastName );
+
+3. var name ='Juan'
+for(var i=0; i<4; i++ ){
+      console.log( name )
+             }
+4.var names =['Juan','John','Mike','Tom']
+      console.log(i)
+ }
+   
+   
+2. var firstName ='Juan ';
+ 
+var lastName = 'Hernandez';
+
+console.log( 'Hello there! ' + firstName + lastName );
+
+3. var name ='Juan'
+for(var i=0; i<4; i++ ){
+      console.log( name )       
+             }
+4.var names =['Juan','John','Mike','Tom']
+
+3. var name ='Juan'
+for(var i=0; i<4; i++ ){
+      console.log( name )
+             }
+4.var names =['Juan','John','Mike','Tom']
+
+for (i in names)
+ {
+
+   console.log(names[i])
+ }
+
+5.   for(var i = 10 ;i >= 1; i--)
+{
+      console.log(i)
+ }
+
+A   
+for (i in names)
+ {
+   
+   console.log(names[i])
+ }
+
+5.   for(var i = 10 ;i >= 1; i--)
+{
+      console.log(i)
+ }
