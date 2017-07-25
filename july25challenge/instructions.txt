@@ -1,0 +1,1 @@
+Place the text and image for the arepas recipe into semantic HTML markup. You don't have to include CSS but you are welcome to if you'd like the practice.

@@ -1,0 +1,23 @@
+.other {
+        margin: 100px 100px 50px 10px;
+  
+}
+body {
+    background-color: lightblue;
+}
+.prep {
+         margin: 50px 100px 100px 10px;
+}
+ img {
+     display: block;
+    margin: auto;
+    border-radius: 25px;
+ }
+h1,h2 {
+    text-align: center;
+}
+ul {
+    text-align: center;
+    text-decoration: none
+
+}
